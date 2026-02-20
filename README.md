@@ -1,3 +1,3 @@
-# remote-repo
+# tut2-ex1
 # Greeting
-Hello from developer 1
+Hello again from developer 1
